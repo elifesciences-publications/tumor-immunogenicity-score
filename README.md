@@ -1,3 +1,4 @@
+### This code is associated with the paper from Wang et al., "Antigen presentation and tumor immunogenicity in cancer immunotherapy response prediction". eLife, 2019. http://dx.doi.org/10.7554/eLife.49020
 # Tumor Immunogenicity Score (TIGS)
 
 ## Contents
